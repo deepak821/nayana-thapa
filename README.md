@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nayana-thapa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on anything that could build my skills and confident.
 - 📫 How to reach me ... thapanayana02@gmail.com
 
